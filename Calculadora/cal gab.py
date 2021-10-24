@@ -30,7 +30,7 @@ def pulsar(num):
         enpantalla.set(enpantalla.get() + num)
 
 def reinicio():
-    enpantalla.set(0)
+    enpantalla.set(0) #balblabla
 
 def suma(num):
     global operacion
